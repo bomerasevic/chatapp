@@ -2,9 +2,9 @@
 ---
 
 
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/PWUR8Xv)]()
+![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/PWUR8Xv.png)
 
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/ChspNQD)]()
+![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/ChspNQD.png)
 
 
 ### Table of Contents
