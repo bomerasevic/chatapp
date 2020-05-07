@@ -15,7 +15,7 @@
 
 ---
 
-## Descriptionhttps
+## Description
 
 This program contains both front-end and back-end code for Chat app with a simple graphical user interface (GUI) built with React.JS and Python framework Django. This app allows user to: 
 * get random username
