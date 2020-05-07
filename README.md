@@ -1,6 +1,12 @@
 # Chat Application
 ---
 
+
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/PWUR8Xv)]()
+
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/ChspNQD)]()
+
+
 ### Table of Contents
 
 - [Description](#description)
@@ -9,7 +15,7 @@
 
 ---
 
-## Description
+## Descriptionhttps://imgur.com/a/0Jmqnga
 
 This program contains both front-end and back-end code for Chat app with a simple graphical user interface (GUI) built with React.JS and Python framework Django. This app allows user to: 
 * get random username
